@@ -451,3 +451,5 @@ In [TeamSusanna](Teams/TeamSusanna/maze_main.py) you will find a way how to inte
 ## Further Information
 todo:
 *Add installation hints for macos
+* MacOS 
+* 
